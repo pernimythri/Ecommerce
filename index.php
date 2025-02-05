@@ -42,7 +42,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
                     Cart
                 </a>
                 <!-- Logout button -->
-                <form method="POST" style="display: inline;">
+                <form method="POST" action="pages/login.php" style="display: inline;">
                     <button type="submit" name="logout" class="logout-button">Logout</button>
                 </form>
             </nav>
