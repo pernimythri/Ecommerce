@@ -1,9 +1,9 @@
-# **Project Overview**
+### **Project Overview**
 This e-commerce platform is designed for **Customers** and **Admins** to handle shopping and management functionalities. Below are concise, sectioned explanations for each part of the project.
 
 ---
 
-# **1. User Section**
+### **1. User Section**
 This section explains how users interact with the website.
 
 #### **1.1. How can users register on the platform?**
